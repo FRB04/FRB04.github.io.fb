@@ -63,9 +63,6 @@ body>footer {
     display: flex;
 }
 
-img { 
-    border-radius: 100%;
-}
 
 #footer-ul {
     display: flex;
